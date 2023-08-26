@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Abhinav",
+    "branch": "CSE",
+    "gPA": 9.3,
+    "collegeName": "Lovely Professional University",
+    "email": "abhinav12@gmail.com",
+    "password": "Abhinav@123"
+  },
+  {
+    "id": 1,
+    "name": "Guest",
+    "branch": "CSE",
+    "gPA": 9.8,
+    "collegeName": "Lovely Professional University",
+    "email": "guest@gmail.com",
+    "password": "Guest@123"
+  }
+]
